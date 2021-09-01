@@ -1,4 +1,4 @@
-##💙 Olá, meu nome é <strong>Luis!</strong>
+## 💙 Olá, meu nome é <strong>Luis!</strong>
 
 ## 🚀 Minhas Skills
 
