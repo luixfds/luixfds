@@ -2,7 +2,7 @@
 
 ## 🚀 Minhas Skills
 
-<img  height="170em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
+<img  height="180em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
 
 <div>
   <a href="https://github.com/luixfds">
