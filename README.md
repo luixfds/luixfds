@@ -1,12 +1,12 @@
 ## 💙 Olá, meu nome é <strong>Luis!</strong>
 
+## 🚀 Minhas Skills
+
 <div>
   <a href="https://github.com/luixfds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luixfds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python"/></code>
