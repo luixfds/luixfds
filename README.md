@@ -2,15 +2,13 @@
 
 ## 🚀 Minhas Skills
 
-<img  height="180em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
-
 <div>
   <a href="https://github.com/luixfds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luixfds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
+<img  height="180em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
   
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
