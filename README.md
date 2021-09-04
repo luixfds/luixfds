@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<img align="right" alt="Luix" src="https://imgur.com/gallery/aWuDzDD">
+<img align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
   
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
