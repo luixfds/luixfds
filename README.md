@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" alt="c++"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"/></code>
 <code><img height="32" src="https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?ssl=1" alt="SQL"/></code>
