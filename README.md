@@ -10,7 +10,7 @@
 
 <img  height="180em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
   
-##✨ Ferramentas
+## ✨ Ferramentas
   
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
