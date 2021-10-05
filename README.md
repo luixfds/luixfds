@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<img  height="180em" align="right" alt="Luix" src="https://i.imgur.com/i76z9hb.gif">
+<img  height="180em" align="right" alt="Luix" src="https://i.pinimg.com/originals/1e/6c/ec/1e6cec033caf5ebf9b3a6ec22ed35d43.gif">
   
 ## ✨ Ferramentas
   
