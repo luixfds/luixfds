@@ -32,3 +32,4 @@
 [![Twitch Badge](https://img.shields.io/badge/Twitch-Profile-informational?style=for-the-badge&logo=Twitch&logoColor=white&color=6600ff)](https://www.twitch.tv/luix_fds)
 [![Discord Badge](https://img.shields.io/badge/Discord-Server-informational?style=for-the-badge&logo=Discord&logoColor=white&color=6666ff)](https://discord.gg/Py2eTFSj)
   
+Cabral Lindo
