@@ -28,6 +28,7 @@
 <code><img height="32" src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" alt="Figma"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="Flutter"/></code>
 <code><img height="32" src="https://nuxtjs.ir/logos/nuxt-white.svg" alt="NuxtJS"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass"/></code>
   
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/luix_fds)
