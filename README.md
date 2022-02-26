@@ -25,7 +25,7 @@
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png" alt="Discord"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Code"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm"/></code>
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftuany.work%2F&psig=AOvVaw0sko-vAVRqZ8xpwK0mZckI&ust=1646002727627000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPCAyZ68nvYCFQAAAAAdAAAAABAJ" alt="Figma"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" alt="Figma"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="Flutter"/></code>
   
 
