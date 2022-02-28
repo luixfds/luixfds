@@ -1,6 +1,6 @@
-## 💙 Prazer, eu sou o <strong>Luis!</strong>
+## 💙 Prazer, eu sou o <strong>Luis!</strong> 💙
 
-## 🚀 Minhas Skills
+## 🌊 Minhas Skills 🌊
 
 <div>
   <a href="https://github.com/luixfds">
@@ -10,7 +10,7 @@
 
 <img  height="180em" align="right" alt="Luix" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwEI-sFBpZmKVl2p3UR7ToIc">
   
-## ✨ Linguagens, Frameworks e Ferramentas ja trabalhadas
+## ✨ Linguagens, Frameworks e Ferramentas ja trabalhadas ✨
   
   <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
   <code><img height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++"/></code>
