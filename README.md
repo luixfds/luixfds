@@ -1,4 +1,4 @@
-## 💙 Prazer, eu sou o <strong>Luis!</strong> 💙
+<!-- ## 💙 Prazer, eu sou o <strong>Luis!</strong> 💙 -->
 
 ## 🌊 Minhas Skills 🌊
 
