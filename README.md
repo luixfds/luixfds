@@ -1,9 +1,7 @@
-# 👋 Olá
-
 ## 🌟 Sobre mim
 
 Sou **Desenvolvedor Frontend & UI Designer Pleno** apaixonado por criar interfaces bonitas, funcionais e responsivas.  
-Atualmente trabalho com desenvolvimento de aplicações web e **mentoria de novos devs**, ajudando-os a crescer na carreira e no código 💻🚀.
+Atualmente trabalho com **desenvolvimento de aplicações web e mentoria de novos devs** 💻🚀.
 
 ---
 
@@ -20,8 +18,6 @@ Atualmente trabalho com desenvolvimento de aplicações web e **mentoria de novo
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="30" />
 </p>
 
-> Tecnologias que uso no meu dia a dia — e que continuo explorando sempre!
-
 ---
 
 ## 🛠️ Ferramentas & Utilitários
@@ -30,13 +26,15 @@ Atualmente trabalho com desenvolvimento de aplicações web e **mentoria de novo
 - Git & GitHub
 - Storybook
 - Figma / Figma Plugins
+- Azure DevOps & Google Cloud plataform
 - Chrome DevTools
 - Github Copilot & GPT
 
 ---
 
-## 📫 Como me contatar
+## 📫 Contatos
 
 📧 Email: l.fds@yahoo.com 
-🔗 LinkedIn: [https://www.linkedin.com/in/seunome  ](https://www.linkedin.com/in/luis-santos-dev/)
+📞 WhatsApp: (19) 98120-9677
+🔗 LinkedIn: [https://www.linkedin.com/in/luixfds  ](https://www.linkedin.com/in/luis-santos-dev/)
 🌐 Portfolio: Em breve
