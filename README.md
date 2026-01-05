@@ -14,7 +14,7 @@ Atualmente trabalho com **desenvolvimento de aplicações web e mentoria de novo
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="30" />&
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vue-dot-js.svg" alt="Vue" width="30" />&
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="30" />&
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="30" />&
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="30" />&
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="30" />
 </p>
 
